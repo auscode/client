@@ -62,7 +62,7 @@ const TranslateComp = () => {
   };
 
   useEffect(() => {
-    console.log("Clicked option: ", sourceLanguage);
+    console.log("", sourceLanguage);
   }, [sourceLanguage]);
 
   const tranlateCloseDialog = () => dispatch(setIsTranslate(false));
