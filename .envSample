@@ -1,0 +1,4 @@
+VITE_SERVER = http://localhost:3000
+
+VITE_RAPIDAPI_KEY: add key here
+VITE_RAPIDAPI_HOST: add host here
